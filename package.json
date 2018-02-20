@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bquirosa/Semana-7.git"
+    "url": "git+https://github.com/rudycb23/Sem-7.git"
   },
   "keywords": [
     "MEAN",
@@ -20,9 +20,9 @@
   "author": "Rudy Campos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bquirosa/Semana-7/issues"
+    "url": "https://github.com/rudycb23/Sem-7/issues"
   },
-  "homepage": "https://github.com/bquirosa/Semana-7#readme",
+  "homepage": "https://github.com/rudycb23/Sem-7#readme",
   "devDependencies": {
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
